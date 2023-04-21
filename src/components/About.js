@@ -10,7 +10,7 @@ export default function About() {
             <br className="hidden lg:inline-block" /> I love to build amazing web applications
           </h1>
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisadf
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis
             laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
             Laborum, voluptas natus?
           </p>
