@@ -1,0 +1,25 @@
+# ignore compiled files
+*.class
+*.o
+*.pyc
+
+# ignore editor and IDE files
+.idea/
+.vscode/
+
+# ignore build directories
+/build/
+/dist/
+/out/
+/node_modules/
+
+# ignore OS and temporary files
+.DS_Store
+Thumbs.db
+*~
+*.swp
+
+# ignore credentials and secrets
+secrets.yml
+credentials.json
+*.env
