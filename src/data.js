@@ -1,35 +1,35 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Fitbyshann Website",
+    subtitle: "Javascript & Bootsrap",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    // image: "./project-1.gif",
+      "created a fitness website for client",
+    image: "./transparent_logo.png",
+    link: "http://www.fitbyshann.com/",
+  },
+  {
+    title: "Smartbrain",
+    subtitle: "React",
+    description:
+      "Completed project that used an API that is able to identify faces within images",
+    image: "./smartbrain.png",
+    link: "https://github.com/jemarm/facerecognitionbrain",
+  },
+  {
+    title: "Robofriends",
+    subtitle: "React",
+    description:
+      "Search and filter through different Robofriends",
+    image: "./robofriends.jpeg",
     link: "https://reactbootcamp.com",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Tic Tac Toe",
+    subtitle: "Javascript",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    // image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
-  },
-  {
-    title: "DevChat",
-    subtitle: "React and Firebase",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    // image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
-  },
-  {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    // image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+      "classic game of tic tac toe",
+    image: "./tic-tac-toe.png",
+    link: "https://github.com/jemarm/Tic-Tac-Toe-Project",
   },
 ];
 
@@ -37,9 +37,9 @@ export const testimonials = [
   {
     quote:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
+    image: "./shann-selfie.jpeg",
+    name: "Shannea M",
+    company: "Fitbyshann",
   },
   {
     quote:
