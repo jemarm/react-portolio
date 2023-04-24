@@ -9,7 +9,7 @@ export default function About() {
             Hi, I'm Jemar.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Web Developer based out of Toronto, Canada.
+            Software Developer based out of Toronto, Canada.
           </p>
           <div className="flex justify-center">
             <a
