@@ -3,33 +3,33 @@ export const projects = [
     title: "Fitbyshann Website",
     subtitle: "Javascript & Bootsrap",
     description:
-      "created a fitness website for client",
+      "Fitness website for client",
     image: "./transparent_logo.png",
     link: "http://www.fitbyshann.com/",
+  },
+  {
+    title: "Wordle Clone",
+    subtitle: "React",
+    description:
+      "Clone of classic Wordle game",
+    image: "wordle-clone.jpeg",
+    link: "https://github.com/jemarm/wordle-project",
   },
   {
     title: "Smartbrain",
     subtitle: "React",
     description:
-      "Completed project that used an API that is able to identify faces within images",
+      "Face identification project",
     image: "./smartbrain.png",
     link: "https://github.com/jemarm/facerecognitionbrain",
   },
   {
-    title: "Robofriends",
+    title: "Monsters Rolodex",
     subtitle: "React",
     description:
-      "Search and filter through different Robofriends",
-    image: "./robofriends.jpeg",
-    link: "https://reactbootcamp.com",
-  },
-  {
-    title: "Tic Tac Toe",
-    subtitle: "Javascript",
-    description:
-      "classic game of tic tac toe",
-    image: "./tic-tac-toe.png",
-    link: "https://github.com/jemarm/Tic-Tac-Toe-Project",
+      "Search and filter through different monsters",
+    image: "./monsters-rolodex.png",
+    link: "https://https://github.com/jemarm/monsters-rolodex.com",
   },
 ];
 
@@ -54,6 +54,7 @@ export const skills = [
   "JavaScript",
   "React",
   "Node",
+  "MongoDB",
   "PostgreSQL",
   "Bootstap",
   "Tailwind CSS",

@@ -9,7 +9,7 @@ export default function About() {
             Hi, I'm Jemar.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Software Developer based out of Toronto, Canada.
+            A driven and passionate Software Developer based out of Toronto, Canada.
           </p>
           <div className="flex justify-center">
             <a
@@ -26,9 +26,9 @@ export default function About() {
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
           <img
-            className="object-cover object-center rounded"
+            className="object-cover object-center rounded pl-20"
             alt="hero"
-            src="./coding.svg"
+            src="./technologist.png"
           />
         </div>
       </div>
